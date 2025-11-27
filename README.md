@@ -38,7 +38,8 @@ Enter quantity for Pizza:
 Enter item number to order (or 'done' to finish): 
 
 --- Your Bill ---
-Item:     Quantity     Price     Subtotal
+
+Item:     Quantity     Price      Subtotal
 --------------------------------------------------
 Pizza                  Rs        Rs 
 --------------------------------------------------
@@ -47,6 +48,7 @@ Total: Rs
 
 # 🎯 Conclusion
 This project helps the hotels and restaurants manage their bills easily using Python.
+
 
 
 
