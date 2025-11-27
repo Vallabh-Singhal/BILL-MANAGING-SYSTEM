@@ -1,10 +1,12 @@
 Bill Management System for Hotels and Restaurants
 
-Problem Statement
+•Problem Statement
 
 Hotels and restaurants manage a large number of customer orders, invoices, and payments on a daily basis. Manual billing processes are time‑consuming, prone to calculation errors, and difficult to track. Lack of a centralized billing system leads to issues such as delayed service, inconsistent bill records, difficulty in managing taxes, and challenges in generating reports for business analysis. A digital bill management system is required to streamline billing operations, improve accuracy, and enhance customer experience.
 
-Scope of the Project
+
+
+•Scope of the Project
 
 Design and develop a digital billing system for hotels and restaurants.
 
@@ -21,7 +23,8 @@ Include reporting features (daily, weekly, monthly sales reports).
 The system will focus only on billing workflows and not cover inventory management or reservation systems.
 
 
-Target Users
+
+•Target Users
 
 Restaurants (small, medium, and large scale)
 
@@ -34,7 +37,9 @@ Restaurant managers and hotel administrators
 Cloud‑kitchen and takeaway service providers
 
 
-High‑Level Features
+
+
+•High‑Level Features
 
 User Authentication: Role‑based login for admin and staff.
 
