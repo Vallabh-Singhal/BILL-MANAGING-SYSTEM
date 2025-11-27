@@ -31,20 +31,21 @@ You can enter your order, get subtotal, and check your final bill.
 9. Coffee - Rs 80.0
 10. Brownie - Rs 150.0
 ----------------
-Enter item number to order (or 'done' to finish): 1
-Enter quantity for Pizza: 1
-Enter item number to order (or 'done' to finish): DONE
+Enter item number to order (or 'done' to finish): 
+Enter quantity for Pizza: 
+Enter item number to order (or 'done' to finish): 
 
 --- Your Bill ---
 Item:     Quantity     Price     Subtotal
 --------------------------------------------------
-Pizza           1     Rs 120.0     Rs 120.0
+Pizza                  Rs        Rs 
 --------------------------------------------------
-Total: Rs 120.0
+Total: Rs 
 -----------------
 
 # 🎯 Conclusion
 This project helps the hotels and restaurants manage their bills easily using Python.
+
 
 
 
